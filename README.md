@@ -6,3 +6,4 @@
 - `mkdir`: creates a folder
 - `touch`: to create a file
 - `code` : to open VScode
+- `git init`: creates a new repository
