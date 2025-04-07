@@ -1,4 +1,4 @@
-# Termianl Commands
+# Terminal Commands
 
 - `pwd`: prints working directory
 - `ls`: lists the contents of where you are
@@ -6,3 +6,4 @@
 - `mkdir`: creates a folder
 - `touch`: to create a file
 - `code` : to open VScode
+- 
