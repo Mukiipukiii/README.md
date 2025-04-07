@@ -6,4 +6,5 @@
 - `mkdir`: creates a folder
 - `touch`: to create a file
 - `code` : to open VScode
+- `to change url` - use `git remote set-url origin` then the link to the repo
 - 
